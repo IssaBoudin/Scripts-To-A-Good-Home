@@ -15,5 +15,4 @@ Welcome to **Quick Scripts Under 60s**, a collection of super-simple scripts tha
 1. **Clone** this repo  
    ```bash
    git clone https://github.com/IssaBoudin/60-Second-Scripts.git
-
-
+   ```
