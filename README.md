@@ -1,13 +1,13 @@
-# 60-Second Scripts
+# Random Scripts
 
-Welcome to **Quick Scripts Under 60s**, a collection of super-simple scripts that you can write and execute in under one minute. Perfect for demos, learning exercises, or just shaving time off routine tasks!
+Welcome to **Random Scripts**, a collection of super-simple scripts with no good place to put them.
 ![Quick.png](./images/Quick.png)
 
 ## 🚀 Features
 
-- **Lightning-Fast**: Each script runs in under 60 seconds.
+- **Lightning-Fast**: Each script runs quickly.
 - **Beginner-Friendly**: Step-by-step instructions included.
-- **Extensible**: Modify or add your own “60-second” scripts.
+- **Extensible**: Modify or add your own quick scripts.
 
 
 ## 📋 How to Use
